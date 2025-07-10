@@ -1,3 +1,6 @@
+# *KAYITLI MODELLER VE NPY DATALARI İÇİN DRİVE LİNKİNDEKİ ZİP'İ İNDİRİP PROJE DOSYALARININ İÇİNE ÇIKARILMASI GEREKMEKTEDİR.*
+(gitHub'ın 100mb max dosya boyutu kısıtından kaynaklıdır.)
+
 Ali Emre Çaylak
 211301007 TOBB ETU
 acaylak@etu.edu.tr
