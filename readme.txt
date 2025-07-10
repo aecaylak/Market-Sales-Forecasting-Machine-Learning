@@ -1,4 +1,4 @@
-# *KAYITLI MODELLER VE NPY DATALARI İÇİN ZİP DOSYASINI PROJE DOSYALARININ İÇİNE ÇIKARILMASI GEREKMEKTEDİR*
+# *KAYITLI MODELLER VE NPY DATALARI İÇİN ZIP DOSYASINI PROJE DOSYALARININ İÇİNE ÇIKARILMASI GEREKMEKTEDİR*
 (gitHub'ın 100mb max dosya boyutu kısıtından kaynaklı ziplenmiştir)
 Erişilememesi durumunda Tüm proje indirme linki: https://drive.google.com/file/d/15L5Vr9idbO4InSY4eP5_o4GuHCheXglS/view?usp=sharing
 
